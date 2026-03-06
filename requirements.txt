@@ -1,0 +1,35 @@
+
+# Install: pip install -r requirements.txt
+
+# AI Brain — Groq (FREE)
+langchain==0.3.7
+langchain-groq==0.2.1
+langchain-core==0.3.15
+
+# Telegram Bot (FREE)
+python-telegram-bot==21.6
+
+# Notion API (FREE)
+notion-client==2.2.1
+
+# Supabase DB (FREE)
+supabase==2.9.0
+
+# Vector Memory (FREE, local)
+chromadb==0.5.18
+
+# Scheduler (BackgroundScheduler — Windows compatible)
+APScheduler==3.10.4
+
+# Timezone
+pytz==2024.2
+
+# Settings
+pydantic-settings==2.6.0
+python-dotenv==1.0.1
+
+# Windows event loop fix
+nest_asyncio==1.6.0
+
+# Utilities
+aiohttp==3.10.10

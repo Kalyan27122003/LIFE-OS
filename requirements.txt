@@ -33,3 +33,5 @@ nest_asyncio==1.6.0
 
 # Utilities
 aiohttp==3.10.10
+
+streamlit
